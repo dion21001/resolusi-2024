@@ -2,3 +2,5 @@ pada persiapan ini saya ingin
 - konsisten belajar django
 - belajar html,css,javascripts
 - belajar untuk data science
+- belajar machine learning 
+- integrate antara machine learning ke django
