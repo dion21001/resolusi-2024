@@ -3,4 +3,4 @@ pada persiapan ini saya ingin
 - belajar html,css,javascripts
 - belajar untuk data science
 - belajar machine learning 
-- integrate antara machine learning ke django
+- belajar python advantage
