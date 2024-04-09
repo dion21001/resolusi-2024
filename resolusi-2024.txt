@@ -1,0 +1,4 @@
+pada persiapan ini saya ingin 
+- konsisten belajar django
+- belajar html,css,javascripts
+- belajar untuk data science
